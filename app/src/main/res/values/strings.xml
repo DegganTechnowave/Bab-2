@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BAB2</string>
+    <string name="title_activity_profil">Profil</string>
+    <string name="title_activity_login">Login</string>
+</resources>
